@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>loginForgot</name>
+   <tag></tag>
+   <elementGuidId>a18476fc-7525-4fd5-8c01-0eafb44075d3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a:nth-of-type(2)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'I forgot my password')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a1daf27a-6a78-4b58-8d57-d2e57d7a5a59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://sistemtoko.com/forgot</value>
+      <webElementGuid>9bc556c6-b684-4b34-bfc4-013a15978220</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>I forgot my password</value>
+      <webElementGuid>dcc5c09c-5dac-49fe-a5e6-b9b0afe0ec67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;no-js css-menubar&quot;]/body[@class=&quot;page-register-v3 layout-full&quot;]/div[@class=&quot;page animsition vertical-align text-center&quot;]/div[@class=&quot;page-content vertical-align-middle&quot;]/div[@class=&quot;panel&quot;]/div[@class=&quot;panel-body&quot;]/p[1]/a[2]</value>
+      <webElementGuid>45814023-c77b-4fab-8920-c03e28fc9c64</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'I forgot my password')]</value>
+      <webElementGuid>8dd8ace6-83a8-4725-bd07-a95b0114b900</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://sistemtoko.com/forgot')]</value>
+      <webElementGuid>22109673-440d-4237-a808-6c9c3738b416</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]</value>
+      <webElementGuid>b0432f00-0785-499f-b637-330268550d94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://sistemtoko.com/forgot' and (text() = 'I forgot my password' or . = 'I forgot my password')]</value>
+      <webElementGuid>681ebb16-102a-4fba-8b8c-4f1f1f8c0e20</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

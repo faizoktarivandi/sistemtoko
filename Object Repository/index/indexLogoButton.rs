@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>indexLogoButton</name>
+   <tag></tag>
+   <elementGuidId>a5d26625-aa9c-40d7-a421-4a0ec9b39b30</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;logo sistemtoko.com&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='menu-utama']/div/div/a[2]/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>b8f23688-60c3-4d8a-84b3-a46d0f3628df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://sistemtoko.com/assets/landing-page-new/assets/images/logo-kotak-old.png</value>
+      <webElementGuid>6ede34dc-880d-4eab-93da-d1381155fe5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>logo sistemtoko.com</value>
+      <webElementGuid>7b8919d6-7bb9-4296-81da-a7c253f6ee74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-utama&quot;)/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;navbar-header&quot;]/a[@class=&quot;navbar-brand&quot;]/img[1]</value>
+      <webElementGuid>0b2abdab-b70e-4f4f-99f2-4ce0e87d4bb5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='menu-utama']/div/div/a[2]/img</value>
+      <webElementGuid>b43f883c-aba3-4ab7-9e90-ddc0d1825cb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='logo sistemtoko.com']</value>
+      <webElementGuid>fcb09c9e-4d91-4d74-b1fc-c0bea15c34b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/img</value>
+      <webElementGuid>1b871441-68bb-4c92-afd0-dd788d6361d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://sistemtoko.com/assets/landing-page-new/assets/images/logo-kotak-old.png' and @alt = 'logo sistemtoko.com']</value>
+      <webElementGuid>64b3a990-2db3-49f7-9258-e73327ca707c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

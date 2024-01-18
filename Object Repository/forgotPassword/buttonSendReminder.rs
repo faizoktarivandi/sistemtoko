@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>buttonSendReminder</name>
+   <tag></tag>
+   <elementGuidId>c88bd988-bde6-451f-8c99-c5b9666e5554</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.btn.btn-pin</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='Send Reminder']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>0fb92923-bbcc-4df7-86a0-23baf137016f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>3c354ba2-09f7-4b14-8e66-dea7828f348c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-pin</value>
+      <webElementGuid>56f53dae-c745-4f80-be31-7b93666c0d0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Send Reminder</value>
+      <webElementGuid>65b7f62c-2261-4ac2-aa5c-908a95f4d508</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;no-js css-menubar&quot;]/body[@class=&quot;page-register-v3 layout-full&quot;]/div[@class=&quot;page animsition vertical-align text-center&quot;]/div[@class=&quot;page-content vertical-align-middle&quot;]/div[@class=&quot;panel&quot;]/div[@class=&quot;panel-body&quot;]/form[@class=&quot;form-horizontal&quot;]/div[@class=&quot;form-group&quot;]/input[@class=&quot;btn btn-pin&quot;]</value>
+      <webElementGuid>07ebc41a-503d-49b7-abc3-d66d08cd5daa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='Send Reminder']</value>
+      <webElementGuid>71b69f44-62d8-4514-be66-922bb1390d04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/input</value>
+      <webElementGuid>b0cc3987-3f2a-4c20-826b-c9ae4f54f6a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'submit']</value>
+      <webElementGuid>b044cbce-0d30-4819-9cba-73eb2a6fb949</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

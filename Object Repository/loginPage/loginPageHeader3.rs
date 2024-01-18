@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>loginPageHeader3</name>
+   <tag></tag>
+   <elementGuidId>39e41846-d391-4a5d-bc82-ec439fd6f3e5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>5bf654e6-133b-4fe2-a6cf-f37c23b085ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Login</value>
+      <webElementGuid>8bc6aeab-9abc-462e-b32e-45d29ff476d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;no-js css-menubar&quot;]/body[@class=&quot;page-register-v3 layout-full&quot;]/div[@class=&quot;page animsition vertical-align text-center&quot;]/div[@class=&quot;page-content vertical-align-middle&quot;]/div[@class=&quot;panel&quot;]/div[@class=&quot;panel-body&quot;]/h3[1]</value>
+      <webElementGuid>71a7808c-8c0d-4298-abb8-024e1a8f783a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>e01bb774-e3d0-45ab-9288-2ad7515a8306</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Login' or . = 'Login')]</value>
+      <webElementGuid>7684ed2b-72a7-4818-9179-2e6eb9484946</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
